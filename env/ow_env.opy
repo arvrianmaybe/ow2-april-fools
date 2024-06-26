@@ -1,7 +1,7 @@
 #!mainFile "../main.opy"
 
 # Environment Variables
-#!define GAMEMODE_VERSION "Balanced Edition"
+#!define GAMEMODE_VERSION "April Fools"
 #!define GAMEMODE_NAME "Remastered Overwatch"
 #!define GAMEMODE_DESCRIPTION (GAMEMODE_NAME + " " + GAMEMODE_VERSION + "\n" + \
                                "\n" + \
@@ -24,7 +24,7 @@
                                "\n" + \
                                "Source code:" + "\n" + \
                                "https://shorter.me/Q4Se9")
-#!define GAMEMODE_CODE "WS8C5"
+#!define GAMEMODE_CODE "Q5X94"
 #!define STAGING_CODE "KR56M"
 #!define DISCORD_SHORT_LINK "dsc.gg/runece"
 #!define DISCORD_LONG_LINK "discord.gg/vb5r2gfNTQ"
